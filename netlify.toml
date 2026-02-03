@@ -1,0 +1,4 @@
+[[redirects]]
+from ="/*"
+to = "/frontend/public/Overview.html"
+status= 200
